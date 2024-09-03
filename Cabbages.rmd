@@ -43,6 +43,11 @@ box c52 is higher than the c39 boxplot, both boxes are disjointed.
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+```{r}
+favstats(VitC~Cult,data=veggy)
+```
+
+
 
 ## Inferential Results
 
