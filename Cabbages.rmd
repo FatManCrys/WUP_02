@@ -62,4 +62,5 @@ The probability of getting this result is the number 0.0000003405. we do not bel
 
 # Discussion and Conclusion
 
+i graphed the differences between the C30 and c52 method and put them in the box plots seeing that C39 is lower than C52. Then i looked at the numerical results between the quarters of my first box plot and saw that C52 was higher than C39. I ran a statistical test and found the probability and diffrence in methods between C39 and C59
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
